@@ -1,8 +1,10 @@
-# penampil-wifi-tersimpan-windows
-Menampilkan SSID dan password wifi yang tersimpan di windows
 ## Requirements
-
 [python](https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe)
+
+# penampil-wifi-tersimpan-windows
+Menampilkan SSID dan password wifi yang tersimpan di windows. simpel script buat jalanin "netsh wlan show profiles" aja sih
+
+[Download](https://github.com/padiosana/penampil-wifi-tersimpan-windows/archive/refs/heads/main.zip)
 
 ## Tutorial
 

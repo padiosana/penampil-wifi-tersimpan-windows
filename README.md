@@ -5,5 +5,5 @@ Menampilkan SSID dan password wifi yang tersimpan di windows
 2. klik "e" untuk keluar
 3. klik "s" untuk menyimpan SSID dan password
 4. tulis file path / tempat menyimpat file SSID dan password
-4.1 file path C:\Users\users\Downloads\\namafile.txt
-4.2 Contoh    C:\Users\padiosana\Downloads\\namafile.txt
+5. file path C:\Users\users\Downloads\\namafile.txt
+6. Contoh    C:\Users\padiosana\Downloads\\namafile.txt
